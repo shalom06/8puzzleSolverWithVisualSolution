@@ -22,3 +22,4 @@ The execution of the program happens in this file
 utilityFunctions.py
 This file contains all the supporting utility functions required for execution.
 
+<img src="https://user-images.githubusercontent.com/10242289/45257497-753f8a00-b364-11e8-8ea2-a1c0a07c866a.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/10242289/45257508-89838700-b364-11e8-9587-3b3f94583183.png" width="15%"></img> 
